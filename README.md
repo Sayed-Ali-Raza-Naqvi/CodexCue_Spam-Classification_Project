@@ -27,6 +27,8 @@ The dataset used in this project is the SMS Spam Collection dataset on Kaggle.
 - spam.csv: The original dataset.
 - model.pkl: Pickle file containing the trained Multinomial Naive Bayes model.
 - vectorizer.pkl: Pickle file containing the TF-IDF vectorizer.
+### Deployment
+- Deployed the trained model using Streamlit for real-time sentiment analysis.
 
 ## Acknowledgments
 - SMS Spam Collection Dataset from UCI Machine Learning on Kaggle
